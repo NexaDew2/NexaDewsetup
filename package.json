@@ -1,6 +1,6 @@
 {
-  "name": "nexadewsetupstories",
-  "version": "1.0.0",
+  "name": "nexadewcomponent",
+  "version": "1.1.4",
   "description": "CLI to set up React projects",
   "bin": {
     "nexadew-setup": "./bin/index.js"
