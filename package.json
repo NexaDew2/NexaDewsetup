@@ -1,0 +1,16 @@
+{
+  "name": "nexadewsetupstories",
+  "version": "1.0.0",
+  "description": "CLI to set up React projects",
+  "bin": {
+    "nexadew-setup": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "setup.sh"
+  ],
+  "type": "module",
+  "keywords": ["react", "setup", "vite", "jest", "storybook"],
+  "author": "Your Name",
+  "license": "MIT"
+}
